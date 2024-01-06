@@ -41,9 +41,6 @@
 </div>
 
 
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -85,22 +82,20 @@ Test the app on various devices and screen sizes to ensure a consistent user exp
 Deploy the app on the App Store for iOS users and Google Play Store for Android users.
 Follow platform-specific guidelines for submission and approval.
 
-###Continuous Improvement:
+### Continuous Improvement:
 Gather user feedback and make iterative improvements to enhance the app's functionality and user experience.
 
 ### Built With
 
-* [![React][React.js]][React-url]
-* [![Express.js][Express.js]][Express-url]
-* [![Tailwind][Tailwind]][Tailwind-url]
-* [![Nest.js][Nest.js]][Nest-url]
-* [![Node.js][Node.js]][Node-url]
-* [![Sql][Sql]][Sql-url]
+* ![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+* [![firebase][firebase]][firebase-url]
+* [![figma][figma]][figma-url]
+* [![swift][swift]][swift]
 * [![Js][Js]][Js-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -142,15 +137,11 @@ ReadME template is from
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Express.js]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-[Express-url]: https://expressjs.com/
-[Tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[Tailwind-url]: https://tailwindcss.com/
-[Nest.js]: https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
-[Nest-url]: https://nestjs.com/
-[Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-[Node-url]: https://nodejs.org/en/
-[Sql]: 	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-[Sql-url]: https://www.mysql.com/
+[firebase]: https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white
+[firebase-url]: https://firebase.google.com/docs
+[figma]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
+[figma-url]: https://www.figma.com/
 [Js]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [Js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[swift]: https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white
+[swift-url]: https://www.swift.org/documentation/
