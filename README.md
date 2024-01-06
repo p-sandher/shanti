@@ -32,10 +32,10 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/p-sandher/Library-Study-Room-Booking-System"><strong>Explore the Repo »</strong></a>
+    <a href="https://github.com/p-sandher/shanti/"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/p-sandher/Library-Study-Room-Booking-System">View Demo</a>
+    <a href="https://github.com/p-sandher/shanti/">View Wireframe</a>
 
   </p>
 </div>
@@ -105,9 +105,8 @@ Gather user feedback and make iterative improvements to enhance the app's functi
 <br />
 Puneet Sandher -  puneetsandher@gmail.com
 
-Project Link: [https://github.com/p-sandher/Library-Study-Room-Booking-System](https://github.com/p-sandher/Library-Study-Room-Booking-System)
+Project Link: [https://github.com/p-sandher/shanti/](https://github.com/p-sandher/shanti/)
 
-Demo Link: [https://github.com/p-sandher/Library-Study-Room-Booking-System](https://github.com/p-sandher/Library-Study-Room-Booking-System)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
