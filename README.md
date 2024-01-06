@@ -49,11 +49,11 @@
 
 [![Project Screen Shot][product-screenshot]](https://github.com/p-sandher/Library-Study-Room-Booking-System)
 
-###Planning and Design:
+### Planning and Design:
 Define the features and functionalities of your mental health app.
 Create wireframes and design mockups to visualize the app's structure and user interface.
 
-###Choose the Right Technologies:
+### Choose the Right Technologies:
 Use React Native for cross-platform development, ensuring compatibility with both iOS and Android.
 Utilize Firebase for backend services, including data storage, user authentication, and real-time updates.
 
