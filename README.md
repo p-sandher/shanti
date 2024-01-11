@@ -35,7 +35,7 @@
     <a href="https://github.com/p-sandher/shanti/"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/p-sandher/shanti/">View Wireframe</a>
+    <a href="https://github.com/p-sandher/shanti/blob/main/shanti-prototype-figma.pdf">View Figma Prototype</a>
 
   </p>
 </div>
