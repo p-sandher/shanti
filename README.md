@@ -47,7 +47,7 @@
 [![Project Screen Shot][product-screenshot]](https://github.com/p-sandher/Library-Study-Room-Booking-System)
 
 ### Planning and Design:
-Define the features and functionalities of your mental health app.
+Decide on the features and functionalities of the mental health app.
 Create wireframes and design mockups to visualize the app's structure and user interface.
 
 ### Choose the Right Technologies:
@@ -59,7 +59,7 @@ Integrate features for users to track their emotional well-being. Use React Nati
 
 ### Incorporate AI-powered Sentiment Analysis and NLP:
 Integrate AI libraries or APIs for sentiment analysis and Natural Language Processing (NLP) to analyze and understand user emotions from their input.
-Consider using pre-trained models or training your own model depending on the complexity of the analysis.
+Consider using pre-trained models or training a model depending on the complexity of the analysis.
 
 ### Firebase Integration for Data Management:
 Set up Firebase Firestore or Realtime Database to store user data securely.
